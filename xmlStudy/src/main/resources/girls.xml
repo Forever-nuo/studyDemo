@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<girls>
+    <girl id="1">
+        <name>小雅</name>
+        <age>13</age>
+        <mobile>13057207131</mobile>
+    </girl>
+    <girl id="2">
+        <name>小莉</name>
+        <age>15</age>
+        <mobile>13057207135</mobile>
+    </girl>
+    <girl id="3">
+        <name>小宝</name>
+        <age>17</age>
+        <mobile>13057207137</mobile>
+    </girl>
+</girls>
